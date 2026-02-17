@@ -1,2 +1,34 @@
+# --------------------
+# Python
+# --------------------
+# Virtual environments
 venv/
+web-server/venv/
+
+# Bytecode / caches
+__pycache__/
+*.pyc
+
+# --------------------
+# YOLO / datasets / models
+# --------------------
+data-set/
+web-server/data-set/
+*.pt
+*.zip
+
+# --------------------
+# Svelte / Node.js
+# --------------------
 node_modules/
+web-app/node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# --------------------
+# OS / editor files
+# --------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
