@@ -1,2 +1,6 @@
 pip install ultralytics opencv-python
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+pip install Flask
+pip install flask-cors
+pip install pygame
+
